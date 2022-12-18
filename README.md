@@ -15,3 +15,10 @@ A neural network classifier using the gradient descent. supports multiple hidden
 # Credits
 - Osama Abu Omar
 
+# Run the project
+- install python 3.7
+- create a virtual environment (optional), then install the requirements
+- pip install -r requirements.txt
+- run the main.py file
+
+
